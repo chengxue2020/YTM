@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1682241400/ei/GKNEZPOKLaSP_9EP19-JoAo/ip/104.45.204.71/id/0iE0KnMEbgQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsny6.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/99c5CZGZ_rjp2N1sCLwy9NuyvszF6xU/vprv/1/playlist_type/DVR/mh/Kc/mm/44/mn/sn-p5qlsny6/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1682218997/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgS5johJZzxvJC_UL3fq29zdEa0zbARu7g9uv134v83psCIGHvgglnfeupab1kDdyiDvOUSg6apSnfkrBDnyaZod7o/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgAT8ODKDE2C5AK-c9mXhwiYuUK7GuE0QmGyShp9w2_YkCIQD23ONpyXuY4Q4aYe2v3Jx18O3zgxCA2thOgFXu2QN_sQ%3D%3D/playlist/index.m3u8
